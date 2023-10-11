@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "45737391773",
+    "project_id": "financely-f7850",
+    "storage_bucket": "financely-f7850.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45737391773:android:3f35d544ac74cf50088674",
+        "android_client_info": {
+          "package_name": "com.example.financely"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLvydKI4SzKgseC-C6Ff1NB_FdkSDymCk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
